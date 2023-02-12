@@ -19,5 +19,18 @@
 *.tar.gz
 *.rar
 
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+06. docker-compose/docker-compose/docker-compose.iml
+06. docker-compose/docker-compose/.idea/.gitignore
+06. docker-compose/docker-compose/.idea/misc.xml
+06. docker-compose/docker-compose/.idea/modules.xml
+06. docker-compose/docker-compose/.idea/vcs.xml
+06. docker-compose/docker-compose/.idea/workspace.xml
