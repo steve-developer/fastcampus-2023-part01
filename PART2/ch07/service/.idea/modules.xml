@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch04.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch04.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch04.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch04.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch05.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch05.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch05.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch05.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch06.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch06.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch06.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch06.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch07.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch07.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch07.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch07.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/org.delivery.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/org.delivery.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/org.delivery.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/org.delivery.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/store-admin/service.store-admin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/store-admin/service.store-admin.main.iml" />
+    </modules>
+  </component>
+</project>
