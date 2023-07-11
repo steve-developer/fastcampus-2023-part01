@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  rabbitmq:
+    image: rabbitmq:latest
+    ports:
+      - "5672:5672" # rabbit amqp port
+      - "15672:15672" # manage port
+    environment:
+      - RABBITMQ_DEFAULT_USER=admin       # 기본사용자 이름
+      - RABBITMQ_DEFAULT_PASS=admin123!@# # 기본사용자 비밀번호
