@@ -25,6 +25,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ch02_07.service.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ch02_07.service.common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch02_07.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch02_07.service.db.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/store-admin/ch02_07.service.store-admin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/store-admin/ch02_07.service.store-admin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch02_08.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch02_08.service.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ch02_08.service.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ch02_08.service.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch02_08.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch02_08.service.db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/store-admin/ch02_08.service.store-admin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/store-admin/ch02_08.service.store-admin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch04.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch04.service.api.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/ch04.service.db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/db/ch04.service.db.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/ch05.service.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/ch05.service.api.main.iml" />
