@@ -85,11 +85,20 @@ class ServiceApiPrivateFilter: AbstractGatewayFilterFactory<ServiceApiPrivateFil
 
 
                     // 3. 사용자 정보 추가
+                    val userId = response.userId?.toString()
 
+                    val proxyRequest = exchange.request.mutate()
+                        .header("x-user-id", userId)
+                        .build()
 
+                    val requestBuild = exchange.mutate().request(proxyRequest).build()
 
-                    val mono = chain.filter(exchange)
+                    val mono = chain.filter(requestBuild)
                     mono
+                }
+                .onErrorMap { e ->
+                    log.error("",e)
+                    e
                 }
 
         }
