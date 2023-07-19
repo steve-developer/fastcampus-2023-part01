@@ -44,3 +44,15 @@ hs_err_pid*
 PART2/ch02/service/.gradle/
 PART2/ch02/service/.idea/
 PART2/ch02/service/build/
+PART3/ch04/ch_02/service/.idea/.gitignore
+PART3/ch04/ch_02/service/.idea/compiler.xml
+PART3/ch04/ch_02/service/.idea/gradle.xml
+PART3/ch04/ch_02/service/.idea/jarRepositories.xml
+PART3/ch04/ch_02/service/.idea/kotlinc.xml
+PART3/ch04/ch_02/service/.idea/misc.xml
+PART3/ch04/ch_02/service/.idea/modules.xml
+PART3/ch04/ch_02/service/.idea/vcs.xml
+PART3/ch04/ch_02/service/.idea/modules/api/service.api.main.iml
+PART3/ch04/ch_02/service/.idea/modules/common/service.common.main.iml
+PART3/ch04/ch_02/service/.idea/modules/db/service.db.main.iml
+PART3/ch04/ch_02/service/.idea/modules/store-admin/service.store-admin.main.iml
