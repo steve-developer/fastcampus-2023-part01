@@ -1,0 +1,18 @@
+version: "2"
+services: 
+  db: 
+    image: mysql:8.0.26
+    restart: always
+    command:
+     - --lower_case_table_names=1
+     - --character-set-server=utf8mb4
+     - --collation-server=utf8mb4_unicode_ci
+    container_name: mysql
+    ports:
+      - "3306:3306" 
+    environment: # -e 옵션
+      - MYSQL_DATABASE=mydb
+      - MYSQL_ROOT_PASSWORD=root1234!!
+      - TZ=Asia/Seoul
+    volumes:
+      - C:\TEMP\MySQL:/var/lib/mysql

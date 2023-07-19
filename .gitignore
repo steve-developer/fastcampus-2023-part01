@@ -56,3 +56,15 @@ PART3/ch04/ch_02/service/.idea/modules/api/service.api.main.iml
 PART3/ch04/ch_02/service/.idea/modules/common/service.common.main.iml
 PART3/ch04/ch_02/service/.idea/modules/db/service.db.main.iml
 PART3/ch04/ch_02/service/.idea/modules/store-admin/service.store-admin.main.iml
+PART3/ch04/ch_03/service/.idea/.gitignore
+PART3/ch04/ch_03/service/.idea/compiler.xml
+PART3/ch04/ch_03/service/.idea/gradle.xml
+PART3/ch04/ch_03/service/.idea/jarRepositories.xml
+PART3/ch04/ch_03/service/.idea/kotlinc.xml
+PART3/ch04/ch_03/service/.idea/misc.xml
+PART3/ch04/ch_03/service/.idea/modules.xml
+PART3/ch04/ch_03/service/.idea/vcs.xml
+PART3/ch04/ch_03/service/.idea/modules/api/service.api.main.iml
+PART3/ch04/ch_03/service/.idea/modules/common/service.common.main.iml
+PART3/ch04/ch_03/service/.idea/modules/db/service.db.main.iml
+PART3/ch04/ch_03/service/.idea/modules/store-admin/service.store-admin.main.iml
