@@ -1,0 +1,24 @@
+version: '3.3'
+
+services:
+  prometheus:
+    image: prom/prometheus
+    container_name: prometheus
+    ports:
+      - 9090:9090
+
+    volumes:
+      - type: bind
+        source: ./prometheus/prometheus.yaml
+        target: /etc/prometheus/prometheus.yml
+        read_only: true
+        
+  grapana:
+    image: grafana/grafana
+    container_name: grafana
+
+    ports:
+      - 3000:3000
+
+    links:
+      - prometheus

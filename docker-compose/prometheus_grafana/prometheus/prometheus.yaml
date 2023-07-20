@@ -1,0 +1,8 @@
+global:
+  scrape_interval:     5s # 5초마다 Metric을 Pulling
+  evaluation_interval: 5s
+scrape_configs:
+  - job_name: 'spring-server'
+    metrics_path: '/actuator/prometheus' # 위에서 작성한 Spring Application에서 노출시킨 메트릭 경로를 입력한다.
+    static_configs:
+      - targets: ['host.docker.internal:8080'] # 해당 타겟의 도메인과 포트를 입력한다.
